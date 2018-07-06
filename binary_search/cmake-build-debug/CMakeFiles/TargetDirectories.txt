@@ -1,3 +1,0 @@
-I:/cprogram/algorithm/binary_search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-I:/cprogram/algorithm/binary_search/cmake-build-debug/CMakeFiles/binary_search.dir
-I:/cprogram/algorithm/binary_search/cmake-build-debug/CMakeFiles/edit_cache.dir

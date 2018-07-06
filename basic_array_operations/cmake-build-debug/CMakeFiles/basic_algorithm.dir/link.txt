@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\basic_algorithm.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\basic_algorithm.dir/objects.a @CMakeFiles\basic_algorithm.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe  -g   -Wl,--whole-archive CMakeFiles\basic_algorithm.dir/objects.a -Wl,--no-whole-archive  -o basic_algorithm.exe -Wl,--out-implib,libbasic_algorithm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\basic_algorithm.dir\linklibs.rsp
